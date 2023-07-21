@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/morganworrell/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D5616AQG3uND_j1_hKw/profile-displaybackgroundimage-shrink_350_1400/0/1688850924453?e=1695254400&v=beta&t=Rcz62lhmpZe0TRFtUim-YDFNXvlJY7qAsy9u4ZHi5Vg">
-      <img src="https://media.licdn.com/dms/image/D5616AQG3uND_j1_hKw/profile-displaybackgroundimage-shrink_350_1400/0/1688850924453?e=1695254400&v=beta&t=Rcz62lhmpZe0TRFtUim-YDFNXvlJY7qAsy9u4ZHi5Vg" height="300">
+      <img src="https://media.licdn.com/dms/image/D5616AQG3uND_j1_hKw/profile-displaybackgroundimage-shrink_350_1400/0/1688850924453?e=1695254400&v=beta&t=Rcz62lhmpZe0TRFtUim-YDFNXvlJY7qAsy9u4ZHi5Vg" height="250">
     </picture>
   </a>
 </p>
